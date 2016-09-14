@@ -1,0 +1,13 @@
+c:\users\javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\bin\Debug\Moderate TecMUN Ultimate.exe.config
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\bin\Debug\Moderate TecMUN Ultimate.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\bin\Debug\Moderate TecMUN Ultimate.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\bin\Debug\Moderate TecMUN Ultimate.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate_TecMUN_Ultimate.Main.resources
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate_TecMUN_Ultimate.Resources.resources
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate TecMUN Ultimate.vbproj.GenerateResource.Cache
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate TecMUN Ultimate.exe
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate TecMUN Ultimate.xml
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate TecMUN Ultimate.pdb
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate_TecMUN_Ultimate.Admin.resources
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate_TecMUN_Ultimate.TimeDSL.resources
+C:\Users\Javier\documents\visual studio 2013\Projects\Moderate TecMUN Ultimate\Moderate TecMUN Ultimate\obj\Debug\Moderate_TecMUN_Ultimate.Delgt.resources
